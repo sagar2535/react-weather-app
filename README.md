@@ -1,8 +1,10 @@
+https://react-dynamic-weather-app.netlify.app/
+
 # <p align="center">Weather APP</p>
 
 #### <p align="center">The project was created using `Reactjs`. `CSS` was used for styling, and an npm package called `recharts` was used to create charts. Once the user opens the app, it will ask for `Location Permission`. It is fully responsive to any device.<p/>
 
-- It shows the <b>current temperature</b>. 
+- It shows the <b>current temperature</b>.
 - <b>Daily minimum and maximum temperature</b> on top in a row.
 - <b>Hourly temperature</b> in the graph.
 - <b>Pressure</b> in the hPa unit.
@@ -16,14 +18,14 @@
 ![weather-autosuggetion](https://user-images.githubusercontent.com/86405170/174495662-de7a8dc4-db4f-4b60-a673-603732ed3f07.PNG)
 
 #### <p>Once user click any city name or search icon after typing the city name, it will display the result for the same.</p>
- 
+
 ![weather-input-daily](https://user-images.githubusercontent.com/86405170/174495130-9bdd45e7-e69b-4e11-a4e5-99e0542a15eb.PNG)
 
 #### <p>This is the graph for hourly temperature.</P>
- 
+
 ![weather-hourly-temp-chart](https://user-images.githubusercontent.com/86405170/174495671-e17fe92e-4d61-43ef-af1c-c20355e250ea.PNG)
 
-#### <p>This is for pressure,  including a graph for sunrise and sunset.</P>
+#### <p>This is for pressure, including a graph for sunrise and sunset.</P>
 
 ![weather-sun](https://user-images.githubusercontent.com/86405170/174495669-b7ec8624-effc-455c-8ac7-abba0d1da32f.PNG)</div>
 
