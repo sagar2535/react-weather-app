@@ -1,6 +1,6 @@
-https://react-dynamic-weather-app.netlify.app/
-
 # <p align="center">Weather APP</p>
+
+https://react-dynamic-weather-app.netlify.app/
 
 #### <p align="center">The project was created using `Reactjs`. `CSS` was used for styling, and an npm package called `recharts` was used to create charts. Once the user opens the app, it will ask for `Location Permission`. It is fully responsive to any device.<p/>
 
