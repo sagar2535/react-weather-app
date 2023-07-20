@@ -42,7 +42,7 @@ const Weather = () => {
       .catch((error) => {
         console.log(error);
       });
-  }, [data.coord?.lat, data.coord?.lon]);
+  }, [weatherAPI.key,data.coord?.lat, data.coord?.lon]);
 
   //  For getting One CallData;
   useEffect(() => {
@@ -57,7 +57,7 @@ const Weather = () => {
       .catch((err) => {
         console.log(err);
       });
-  }, [query]);
+  }, [weatherAPI.baseUrl,weatherAPI.key,,query]);
 
   //For  displaying Day
   const displayDate = (d) => {
